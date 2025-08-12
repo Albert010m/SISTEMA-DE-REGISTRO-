@@ -1,9 +1,18 @@
-<h1> Ssitema de Rgistro</h1>
+<h1> Sistema de Amigo Secreto </h1>
 
--Estado del proyecto en cosntrucción
+- Estado del proyecto: Terminado
 
-Para ejecutar el sistema debes poner:
+Para instalar las dependencias ejecuta:
 
-```npm install ract```
+```npm install```
 
-Sistema de registro 2
+Para iniciar el sistema:
+
+```npm start```
+
+<h3> Caracteristicas principales </h3>
+- Asignacion automatica de pares
+- Restricciones configurables
+- Guardado de resultados
+
+Sistema desarrollado por Albert010m
